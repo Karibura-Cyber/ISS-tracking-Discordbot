@@ -15,6 +15,10 @@ pip install -r requirement.txt
 }
 ```
 
+- In Discord server create voice channel name
+```
+ISS POSITION
+```
 - Run the bot
 ``` 
 python main.py 
